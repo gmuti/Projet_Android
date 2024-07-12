@@ -1,12 +1,12 @@
 [
   {
     "question": "logo1.png",
-    "options": ["Nike", "Adidas", "Puma", "Reebok"],
+    "options": ["Apple", "Microsoft", "IBM", "Intel"],
     "correctAnswer": 0
   },
   {
     "question": "logo2.png",
-    "options": ["Apple", "Microsoft", "IBM", "Intel"],
+    "options": ["Windows", "Microsoft", "Linux", "Dell"],
     "correctAnswer": 1
   },
   {

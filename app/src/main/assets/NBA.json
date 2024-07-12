@@ -1,0 +1,247 @@
+[
+  {
+    "question": "Quel joueur a le surnom 'King James'?",
+    "options": ["Kobe Bryant", "Michael Jordan", "LeBron James", "Shaquille O'Neal"],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Quel joueur est célèbre pour avoir remporté six titres NBA avec les Chicago Bulls?",
+    "options": ["Magic Johnson", "Larry Bird", "Michael Jordan", "Scottie Pippen"],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Quel est le nom de l'équipe de NBA basée à Miami?",
+    "options": ["Heat", "Magic", "Lakers", "Bulls"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Quel joueur détient le record du plus grand nombre de points marqués en un seul match NBA?",
+    "options": ["Wilt Chamberlain", "Kareem Abdul-Jabbar", "Michael Jordan", "Kobe Bryant"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Quelle équipe a remporté le plus de titres NBA?",
+    "options": ["Chicago Bulls", "Los Angeles Lakers", "Golden State Warriors", "Boston Celtics"],
+    "correctAnswer": 3
+  },
+  {
+    "question": "Quel joueur a été surnommé 'The Black Mamba'?",
+    "options": ["LeBron James", "Kobe Bryant", "Allen Iverson", "Dwyane Wade"],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Quel joueur est connu pour son tir à trois points et joue pour les Golden State Warriors?",
+    "options": ["Kevin Durant", "Klay Thompson", "Stephen Curry", "James Harden"],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Quel joueur a remporté le titre de MVP de la saison régulière en 2021?",
+    "options": ["LeBron James", "Giannis Antetokounmpo", "Nikola Jokic", "Kevin Durant"],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Quel joueur a été le premier choix de la draft NBA 2003?",
+    "options": ["Carmelo Anthony", "Chris Bosh", "LeBron James", "Dwyane Wade"],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Quel entraîneur est célèbre pour avoir remporté 11 titres NBA avec les Bulls et les Lakers?",
+    "options": ["Pat Riley", "Phil Jackson", "Gregg Popovich", "Red Auerbach"],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Quel joueur a le plus grand nombre de titres de MVP de la saison régulière?",
+    "options": ["Kareem Abdul-Jabbar", "Michael Jordan", "LeBron James", "Bill Russell"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Quel joueur a été surnommé 'The Diesel' et 'Shaq'?",
+    "options": ["Charles Barkley", "Shaquille O'Neal", "Karl Malone", "Hakeem Olajuwon"],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Quel joueur a remporté le concours de dunk NBA en 1988?",
+    "options": ["Spud Webb", "Dominique Wilkins", "Michael Jordan", "Vince Carter"],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Quel joueur est surnommé 'The Greek Freak'?",
+    "options": ["Giannis Antetokounmpo", "Kristaps Porzingis", "Luka Dončić", "Nikola Jokic"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Quelle équipe a remporté le titre NBA en 2020?",
+    "options": ["Miami Heat", "Toronto Raptors", "Los Angeles Lakers", "Milwaukee Bucks"],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Quel joueur est célèbre pour son tir en suspension 'skyhook'?",
+    "options": ["Karl Malone", "Wilt Chamberlain", "Kareem Abdul-Jabbar", "Patrick Ewing"],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Quel joueur a remporté le titre de Rookie of the Year en 2018?",
+    "options": ["Ben Simmons", "Jayson Tatum", "Donovan Mitchell", "Luka Dončić"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Quelle équipe de NBA est basée à New York?",
+    "options": ["Knicks", "Nets", "Celtics", "76ers"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Quel joueur a été le premier choix de la draft NBA 1997?",
+    "options": ["Allen Iverson", "Kobe Bryant", "Tim Duncan", "Kevin Garnett"],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Quel joueur a marqué le plus grand nombre de points en carrière en NBA?",
+    "options": ["Michael Jordan", "LeBron James", "Kareem Abdul-Jabbar", "Karl Malone"],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Quel joueur a remporté le titre de MVP des finales en 2021?",
+    "options": ["LeBron James", "Stephen Curry", "Giannis Antetokounmpo", "Kevin Durant"],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Quelle équipe a remporté le titre NBA en 2015?",
+    "options": ["Cleveland Cavaliers", "Golden State Warriors", "San Antonio Spurs", "Miami Heat"],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Quel joueur est surnommé 'The Answer'?",
+    "options": ["Tracy McGrady", "Vince Carter", "Allen Iverson", "Paul Pierce"],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Quel joueur a remporté le titre de MVP de la saison régulière en 2017?",
+    "options": ["Russell Westbrook", "James Harden", "Stephen Curry", "LeBron James"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Quel joueur a remporté le concours de trois points NBA en 2016?",
+    "options": ["Klay Thompson", "Stephen Curry", "Devin Booker", "Ray Allen"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Quel joueur a été surnommé 'The Big Fundamental'?",
+    "options": ["Shaquille O'Neal", "Tim Duncan", "David Robinson", "Kevin Garnett"],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Quel joueur a remporté le titre de MVP des finales NBA en 2015?",
+    "options": ["Stephen Curry", "LeBron James", "Klay Thompson", "Andre Iguodala"],
+    "correctAnswer": 3
+  },
+  {
+    "question": "Quel joueur a été surnommé 'The Mailman'?",
+    "options": ["Charles Barkley", "Karl Malone", "Hakeem Olajuwon", "David Robinson"],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Quel joueur a remporté le titre de MVP de la saison régulière en 2008?",
+    "options": ["Kobe Bryant", "LeBron James", "Kevin Durant", "Dirk Nowitzki"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Quelle équipe a remporté le titre NBA en 2019?",
+    "options": ["Golden State Warriors", "Toronto Raptors", "Cleveland Cavaliers", "Los Angeles Lakers"],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Quel joueur est célèbre pour son dunk 'Air Jordan'?",
+    "options": ["Kobe Bryant", "LeBron James", "Michael Jordan", "Vince Carter"],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Quel joueur a été le premier choix de la draft NBA 2007?",
+    "options": ["Kevin Durant", "Greg Oden", "Al Horford", "Joakim Noah"],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Quel joueur a remporté le titre de Rookie of the Year en 2020?",
+    "options": ["Zion Williamson", "Ja Morant", "Tyler Herro", "R.J. Barrett"],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Quel joueur est surnommé 'Chef Curry'?",
+    "options": ["Stephen Curry", "Seth Curry", "Klay Thompson", "Kevin Durant"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Quel joueur a remporté le titre de MVP des finales NBA en 2016?",
+    "options": ["Stephen Curry", "LeBron James", "Kevin Durant", "Kawhi Leonard"],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Quelle équipe de NBA est basée à Dallas?",
+    "options": ["Mavericks", "Spurs", "Rockets", "Thunder"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Quel joueur est surnommé 'The Claw'?",
+    "options": ["Kawhi Leonard", "Anthony Davis", "Jimmy Butler", "Paul George"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Quel joueur a remporté le titre de MVP de la saison régulière en 2019?",
+    "options": ["James Harden", "Stephen Curry", "Giannis Antetokounmpo", "LeBron James"],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Quel joueur a été surnommé 'The Stilt'?",
+    "options": ["Wilt Chamberlain", "Bill Russell", "Kareem Abdul-Jabbar", "Patrick Ewing"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Quel joueur a remporté le concours de dunk NBA en 2000?",
+    "options": ["Kobe Bryant", "Vince Carter", "Michael Jordan", "Dominique Wilkins"],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Quel joueur a remporté le titre de Rookie of the Year en 2004?",
+    "options": ["Dwyane Wade", "LeBron James", "Carmelo Anthony", "Chris Bosh"],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Quel joueur a remporté le titre de MVP des finales NBA en 2014?",
+    "options": ["LeBron James", "Kevin Durant", "Tim Duncan", "Kawhi Leonard"],
+    "correctAnswer": 3
+  },
+  {
+    "question": "Quel joueur a remporté le titre de MVP de la saison régulière en 1996?",
+    "options": ["Michael Jordan", "Shaquille O'Neal", "Karl Malone", "Hakeem Olajuwon"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Quel joueur a remporté le titre de Rookie of the Year en 2009?",
+    "options": ["Derrick Rose", "Russell Westbrook", "Kevin Love", "Blake Griffin"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Quel joueur a remporté le concours de trois points NBA en 2020?",
+    "options": ["Devin Booker", "Joe Harris", "Buddy Hield", "Stephen Curry"],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Quel joueur a remporté le titre de MVP des finales NBA en 2018?",
+    "options": ["LeBron James", "Stephen Curry", "Kevin Durant", "Kawhi Leonard"],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Quelle équipe a remporté le titre NBA en 1999?",
+    "options": ["Los Angeles Lakers", "San Antonio Spurs", "Chicago Bulls", "Houston Rockets"],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Quel joueur a remporté le titre de MVP de la saison régulière en 2018?",
+    "options": ["James Harden", "Russell Westbrook", "Stephen Curry", "LeBron James"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Quel joueur a remporté le concours de dunk NBA en 2015?",
+    "options": ["Zach LaVine", "Aaron Gordon", "Victor Oladipo", "Giannis Antetokounmpo"],
+    "correctAnswer": 0
+  }
+]

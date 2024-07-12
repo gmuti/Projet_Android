@@ -35,6 +35,7 @@
             android:src="@drawable/bonus2"
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintEnd_toEndOf="parent"
+<<<<<<< Updated upstream
             android:contentDescription="@string/todo"
             app:layout_constraintHorizontal_bias="1.0" app:layout_constraintTop_toTopOf="parent"/>
     <ImageView
@@ -47,6 +48,22 @@
             app:layout_constraintEnd_toEndOf="parent"
             android:layout_marginTop="108dp" android:contentDescription="@string/todo"
     />
+=======
+            android:layout_marginTop="10dp" android:contentDescription="@string/todo"
+            app:layout_constraintHorizontal_bias="0.957"/>
+
+    <ImageView
+        android:id="@+id/logoImageView"
+        android:layout_width="324dp"
+        android:layout_height="215dp"
+        android:layout_marginTop="144dp"
+        android:contentDescription="@string/todo"
+        android:src="@drawable/logo"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.526"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/welcomeText" />
+>>>>>>> Stashed changes
     <EditText
             android:id="@+id/nameEditText"
             android:layout_width="0dp"

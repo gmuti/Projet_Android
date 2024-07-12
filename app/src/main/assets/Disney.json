@@ -1,0 +1,247 @@
+[
+  {
+    "question": "Quel est le prénom de la sirène dans 'La Petite Sirène'?",
+    "options": ["Ariel", "Belle", "Elsa", "Anna"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Quel film raconte l'histoire d'un jouet cowboy nommé Woody?",
+    "options": ["Cars", "Le Roi Lion", "Toy Story", "Les Indestructibles"],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Dans quel film trouve-t-on le personnage de Simba?",
+    "options": ["Mulan", "Le Roi Lion", "Pocahontas", "Hercule"],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Quel est le nom de l'ami dragon de Mulan?",
+    "options": ["Mushu", "Pascal", "Kuzco", "Baloo"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Quel est le nom du chien dans 'Là-haut'?",
+    "options": ["Max", "Doug", "Remy", "Buzz"],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Quel film met en scène un robot nommé WALL-E?",
+    "options": ["Les Mondes de Ralph", "Wall-E", "Cars", "Le Monde de Nemo"],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Qui est le méchant dans 'La Belle au bois dormant'?",
+    "options": ["Cruella", "Maléfique", "Ursula", "Jafar"],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Quel est le prénom de la princesse dans 'La Belle et la Bête'?",
+    "options": ["Cendrillon", "Ariel", "Belle", "Jasmine"],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Dans quel film trouve-t-on le personnage de Dory?",
+    "options": ["Monstres et Cie", "Le Monde de Nemo", "Cars", "Ratatouille"],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Quel est le nom du rat chef dans 'Ratatouille'?",
+    "options": ["Linguini", "Gusteau", "Remy", "Emile"],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Quel film présente une famille de super-héros?",
+    "options": ["Les Indestructibles", "Toy Story", "Ratatouille", "Le Monde de Nemo"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Quel est le prénom de la princesse dans 'Aladdin'?",
+    "options": ["Ariel", "Jasmine", "Belle", "Pocahontas"],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Dans 'Frozen', quel est le prénom de la sœur de Elsa?",
+    "options": ["Belle", "Ariel", "Anna", "Merida"],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Quel film raconte l'histoire de jouets qui prennent vie?",
+    "options": ["Toy Story", "Cars", "Le Roi Lion", "Les Mondes de Ralph"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Quel est le nom de l'enfant dans 'Le Monde de Nemo'?",
+    "options": ["Nemo", "Marlin", "Dory", "Bubbles"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Quel est le nom du prince dans 'Cendrillon'?",
+    "options": ["Eric", "Charming", "Philip", "Florian"],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Quel film met en scène un avion de course nommé Dusty?",
+    "options": ["Cars", "Planes", "Zootopie", "Toy Story"],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Qui est le méchant dans 'Les 101 Dalmatiens'?",
+    "options": ["Jafar", "Scar", "Cruella", "Hades"],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Quel est le nom de la maison de retraite dans 'Là-haut'?",
+    "options": ["Sunnyvale", "Sunshine", "Shady Oaks", "Hilltop"],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Quel film raconte l'histoire d'une princesse avec des cheveux magiques?",
+    "options": ["Cendrillon", "Raiponce", "Blanche-Neige", "La Belle au bois dormant"],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Quel est le nom du petit robot dans 'Les Nouveaux Héros'?",
+    "options": ["Baymax", "WALL-E", "Eve", "BB-8"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Quel est le prénom de la princesse dans 'La Princesse et la Grenouille'?",
+    "options": ["Tiana", "Ariel", "Mulan", "Jasmine"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Quel est le nom du partenaire de Buzz l'Éclair?",
+    "options": ["Woody", "Jessie", "Rex", "Hamm"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Quel film raconte l'histoire d'une fourmi qui se rebelle?",
+    "options": ["Bugs", "Toy Story", "Fourmiz", "1001 Pattes"],
+    "correctAnswer": 3
+  },
+  {
+    "question": "Quel est le nom du chien dans 'La Belle et le Clochard'?",
+    "options": ["Doug", "Pongo", "Lassie", "Clochard"],
+    "correctAnswer": 3
+  },
+  {
+    "question": "Quel est le prénom de la fée dans 'Peter Pan'?",
+    "options": ["Fée Clochette", "Fée Carabosse", "Fée Bleue", "Fée Marraine"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Dans quel film trouve-t-on les personnages de Mike et Sully?",
+    "options": ["Ratatouille", "Monstres et Cie", "Le Monde de Nemo", "Toy Story"],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Quel film raconte l'histoire d'un garçon mexicain qui rêve de devenir musicien?",
+    "options": ["Coco", "La Reine des Neiges", "Moana", "Ratatouille"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Quel est le prénom de la princesse dans 'La Belle au bois dormant'?",
+    "options": ["Ariel", "Aurora", "Belle", "Jasmine"],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Quel film présente une aventure dans un jeu vidéo?",
+    "options": ["Zootopie", "Les Nouveaux Héros", "Les Mondes de Ralph", "Cars"],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Quel est le nom du méchant dans 'Aladdin'?",
+    "options": ["Scar", "Jafar", "Hades", "Gaston"],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Dans 'Le Roi Lion', quel est le nom du père de Simba?",
+    "options": ["Scar", "Timon", "Mufasa", "Pumbaa"],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Quel film raconte l'histoire d'une voiture de course nommée Flash McQueen?",
+    "options": ["Cars", "Planes", "Toy Story", "Les Indestructibles"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Quel est le prénom de la princesse dans 'Pocahontas'?",
+    "options": ["Mulan", "Pocahontas", "Ariel", "Belle"],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Quel film met en scène un garçon nommé Andy et ses jouets?",
+    "options": ["Cars", "Toy Story", "Monstres et Cie", "Ratatouille"],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Dans 'Frozen', quel est le nom du bonhomme de neige vivant?",
+    "options": ["Olaf", "Sven", "Hans", "Kristoff"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Quel film raconte l'histoire d'une guerrière chinoise?",
+    "options": ["Mulan", "Pocahontas", "Raiponce", "Blanche-Neige"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Quel est le nom du chef dans 'Ratatouille'?",
+    "options": ["Remy", "Linguini", "Gusteau", "Skinner"],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Quel film présente une aventure sous-marine?",
+    "options": ["Le Monde de Nemo", "Les Nouveaux Héros", "Toy Story", "Coco"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Quel est le prénom de la princesse dans 'La Petite Sirène'?",
+    "options": ["Ariel", "Belle", "Jasmine", "Mulan"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Quel est le nom du méchant dans 'Hercule'?",
+    "options": ["Hades", "Jafar", "Gaston", "Scar"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Quel film raconte l'histoire d'un rat qui veut devenir chef cuisinier?",
+    "options": ["Les Indestructibles", "Ratatouille", "Coco", "Toy Story"],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Quel est le prénom de la princesse dans 'Blanche-Neige'?",
+    "options": ["Cendrillon", "Belle", "Aurora", "Blanche-Neige"],
+    "correctAnswer": 3
+  },
+  {
+    "question": "Quel est le nom du prince dans 'La Belle au bois dormant'?",
+    "options": ["Eric", "Philip", "Charming", "Florian"],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Quel film raconte l'histoire d'un empire inca transformé en lama?",
+    "options": ["Hercule", "Les Indestructibles", "Kuzco, l'empereur mégalo", "Tarzan"],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Quel est le prénom de l'héroïne dans 'Vaiana'?",
+    "options": ["Moana", "Ariel", "Mulan", "Merida"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Quel film raconte l'histoire d'un garçon qui voyage dans le monde des morts?",
+    "options": ["Coco", "Les Mondes de Ralph", "Monstres et Cie", "Ratatouille"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Quel est le nom du méchant dans 'Le Livre de la Jungle'?",
+    "options": ["Shere Khan", "Kaa", "Bagheera", "Baloo"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Quel film met en scène un lionceau qui devient roi?",
+    "options": ["Le Roi Lion", "Mulan", "Tarzan", "Hercule"],
+    "correctAnswer": 0
+  }
+]

@@ -1,0 +1,242 @@
+[
+  {
+    "question": "Quel est le héros principal de la série de jeux 'The Legend of Zelda'?",
+    "options": ["Link", "Zelda", "Mario", "Luigi"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Quel jeu vidéo met en scène un plombier qui doit sauver la princesse Peach?",
+    "options": ["Sonic", "The Legend of Zelda", "Super Mario", "Donkey Kong"],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Dans quel jeu vidéo trouve-t-on un hérisson bleu ultra rapide?",
+    "options": ["Super Mario", "Crash Bandicoot", "Sonic the Hedgehog", "Mega Man"],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Quel est le nom du créateur de la série 'Metal Gear'?",
+    "options": ["Hideo Kojima", "Shigeru Miyamoto", "Ken Levine", "Tetsuya Nomura"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Quel est le nom de l'antagoniste principal dans 'Half-Life'?",
+    "options": ["Dr. Robotnik", "G-Man", "Bowser", "Ganon"],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Quel jeu vidéo de simulation de vie a été créé par Will Wright?",
+    "options": ["The Sims", "SimCity", "Animal Crossing", "Harvest Moon"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Quel jeu de combat met en scène des personnages comme Ryu et Ken?",
+    "options": ["Mortal Kombat", "Tekken", "Street Fighter", "SoulCalibur"],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Dans quel jeu vidéo incarne-t-on un Spartan nommé Master Chief?",
+    "options": ["Halo", "Gears of War", "Destiny", "Call of Duty"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Quel jeu de tir en vue subjective se déroule sur Mars et en enfer?",
+    "options": ["Quake", "Doom", "Wolfenstein", "Half-Life"],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Dans quel jeu vidéo trouve-t-on le personnage de Lara Croft?",
+    "options": ["Uncharted", "Prince of Persia", "Tomb Raider", "Assassin's Creed"],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Quel est le nom du héros principal de 'The Witcher'?",
+    "options": ["Geralt", "Ciri", "Vesemir", "Triss"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Quel jeu vidéo est célèbre pour ses blocs de construction et son monde en cubes?",
+    "options": ["Roblox", "Minecraft", "Terraria", "Fortnite"],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Quel jeu vidéo de tir multijoueur a popularisé le genre Battle Royale?",
+    "options": ["Call of Duty", "Apex Legends", "Fortnite", "PUBG"],
+    "correctAnswer": 3
+  },
+  {
+    "question": "Quel est le nom du protagoniste dans 'Red Dead Redemption 2'?",
+    "options": ["John Marston", "Arthur Morgan", "Dutch van der Linde", "Bill Williamson"],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Dans quel jeu vidéo trouve-t-on le personnage de Kratos?",
+    "options": ["Assassin's Creed", "God of War", "Devil May Cry", "Dark Souls"],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Quel jeu vidéo met en scène un personnage nommé Gordon Freeman?",
+    "options": ["Half-Life", "BioShock", "Portal", "Doom"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Quel jeu vidéo de la série 'Final Fantasy' présente Cloud Strife comme personnage principal?",
+    "options": ["Final Fantasy VI", "Final Fantasy VII", "Final Fantasy VIII", "Final Fantasy IX"],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Dans quel jeu vidéo peut-on explorer le monde post-apocalyptique de Washington D.C.?",
+    "options": ["Fallout 3", "The Last of Us", "Metro 2033", "Borderlands"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Quel est le nom de l'entreprise derrière la série 'Assassin's Creed'?",
+    "options": ["EA", "Ubisoft", "Activision", "Square Enix"],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Quel jeu de rôle en ligne massivement multijoueur est souvent abrégé en 'WoW'?",
+    "options": ["World of Warcraft", "Warhammer Online", "WildStar", "Wizard101"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Quel est le nom du personnage principal dans 'The Last of Us'?",
+    "options": ["Nathan", "Joel", "Tommy", "Ellie"],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Quel jeu de course met en scène des karts et des objets pour ralentir les adversaires?",
+    "options": ["Gran Turismo", "Need for Speed", "Mario Kart", "Forza Horizon"],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Quel jeu d'horreur de survie met en scène une ville mystérieuse nommée Raccoon City?",
+    "options": ["Silent Hill", "Resident Evil", "Dead Space", "Outlast"],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Dans quel jeu vidéo trouve-t-on le personnage de Sephiroth?",
+    "options": ["Final Fantasy VI", "Final Fantasy VII", "Final Fantasy VIII", "Final Fantasy IX"],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Quel est le nom du premier jeu vidéo de la série 'Dark Souls'?",
+    "options": ["Demon's Souls", "Dark Souls", "Bloodborne", "Sekiro"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Quel jeu vidéo de plateforme présente un duo de frère, Mario et Luigi?",
+    "options": ["Super Mario Bros.", "Donkey Kong", "Mega Man", "Rayman"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Quel est le nom de l'assassin principal dans 'Assassin's Creed II'?",
+    "options": ["Altair", "Ezio", "Connor", "Edward"],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Quel jeu vidéo de simulation de ville a été créé par Maxis?",
+    "options": ["The Sims", "SimCity", "Cities: Skylines", "Anno 1800"],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Quel est le nom de l'héroïne principale de 'Horizon Zero Dawn'?",
+    "options": ["Lara", "Aloy", "Ellie", "Samus"],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Quel jeu de rôle en ligne massivement multijoueur est basé sur l'univers de 'The Elder Scrolls'?",
+    "options": ["World of Warcraft", "Guild Wars 2", "Final Fantasy XIV", "The Elder Scrolls Online"],
+    "correctAnswer": 4
+  },
+  {
+    "question": "Quel jeu vidéo de course présente des véhicules se transformant en avions et en bateaux?",
+    "options": ["Forza Horizon", "Gran Turismo", "Need for Speed", "Sonic & All-Stars Racing Transformed"],
+    "correctAnswer": 3
+  },
+  {
+    "question": "Quel est le nom de l'entreprise derrière 'Fortnite'?",
+    "options": ["Epic Games", "EA", "Ubisoft", "Activision"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Quel jeu vidéo présente un chevalier combattant des ennemis dans un château?",
+    "options": ["Castlevania", "Metroid", "Mega Man", "Ghosts 'n Goblins"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Quel jeu de stratégie en temps réel se déroule dans l'univers de 'Warcraft'?",
+    "options": ["Warcraft III", "Age of Empires", "Command & Conquer", "Starcraft"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Quel est le nom de la console de jeu portable créée par Nintendo?",
+    "options": ["PlayStation Portable", "Game Boy", "Atari Lynx", "Sega Game Gear"],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Quel est le nom du jeu de simulation agricole développé par ConcernedApe?",
+    "options": ["Harvest Moon", "Animal Crossing", "Stardew Valley", "Farming Simulator"],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Quel jeu de tir en vue subjective se déroule dans une ville fictive appelée Rapture?",
+    "options": ["Half-Life", "BioShock", "Deus Ex", "Dishonored"],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Quel est le nom du protagoniste dans 'The Legend of Zelda'?",
+    "options": ["Zelda", "Ganon", "Link", "Sheik"],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Quel jeu de rôle en ligne massivement multijoueur est souvent abrégé en 'FFXIV'?",
+    "options": ["Final Fantasy XI", "Final Fantasy XIV", "Final Fantasy XII", "Final Fantasy XV"],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Quel est le nom du créateur de la série 'Mario'?",
+    "options": ["Hideo Kojima", "Shigeru Miyamoto", "Ken Levine", "Tetsuya Nomura"],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Quel jeu de stratégie en temps réel se déroule dans l'univers de 'Starcraft'?",
+    "options": ["Warcraft III", "Age of Empires", "Command & Conquer", "Starcraft"],
+    "correctAnswer": 3
+  },
+  {
+    "question": "Quel est le nom de la ville dans 'Grand Theft Auto V'?",
+    "options": ["Liberty City", "Vice City", "San Andreas", "Los Santos"],
+    "correctAnswer": 3
+  },
+  {
+    "question": "Quel est le nom de l'héroïne principale dans 'Metroid'?",
+    "options": ["Lara Croft", "Samus Aran", "Jill Valentine", "Ada Wong"],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Quel jeu de course met en scène des courses de rue illégales?",
+    "options": ["Gran Turismo", "Need for Speed", "Mario Kart", "Forza Horizon"],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Quel est le nom du jeu de tir multijoueur développé par Blizzard Entertainment?",
+    "options": ["Counter-Strike", "Team Fortress", "Overwatch", "Apex Legends"],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Quel jeu vidéo de rôle met en scène une guerre entre les factions de l'Alliance et de la Horde?",
+    "options": ["Guild Wars 2", "World of Warcraft", "Final Fantasy XIV", "The Elder Scrolls Online"],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Quel est le nom du jeu de tir en vue subjective de Valve mettant en scène des portails?",
+    "options": ["Half-Life", "Portal", "BioShock", "Left 4 Dead"],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Quel est le nom de la princesse souvent sauvée par Mario dans la série 'Super Mario'?",
+    "options": ["Zelda", "Peach", "Daisy", "Pauline"],
+    "correctAnswer": 1
+  }
+]
