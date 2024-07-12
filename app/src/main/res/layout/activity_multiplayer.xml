@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                                                   xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+                                                   android:layout_height="match_parent"
+                                                   android:background="@color/first_color"
+                                                   xmlns:app="http://schemas.android.com/apk/res-auto"
+                                                   android:padding="16dp">
+
+    <!-- Partie 1: Section pour le Joueur 1 -->
+    <LinearLayout
+            android:id="@+id/part1Layout"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:visibility="visible"
+            app:layout_constraintTop_toTopOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            android:layout_marginTop="156dp"
+            app:layout_constraintHorizontal_bias="0.5">
+
+        <TextView
+                android:id="@+id/joueur1TextView"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/joueur_1"
+                android:textStyle="bold"
+                android:textSize="28sp"
+                android:paddingBottom="8dp"
+                android:textColor="@color/second_color"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintEnd_toEndOf="parent"/>
+
+        <TextView
+                android:id="@+id/questionregleTextView"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/regle_entrer_question"
+                android:textStyle="bold"
+                android:textSize="18sp"
+                android:paddingBottom="8dp"
+                android:textColor="@color/white"
+                app:layout_constraintTop_toBottomOf="@id/questionTextView"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintEnd_toEndOf="parent" />
+
+        <!-- EditText pour la question du Joueur 1 -->
+        <EditText
+                android:id="@+id/questionEditText"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="8dp"
+                android:layout_marginBottom="8dp"
+                android:hint="@string/question_du_joueur_1"
+                android:background="@android:color/white"
+                android:padding="8dp"
+                app:layout_constraintTop_toBottomOf="@id/joueur1TextView"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintEnd_toEndOf="parent" />
+
+        <!-- EditText pour la réponse du Joueur 1 -->
+        <EditText
+                android:id="@+id/answerEditText"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="8dp"
+                android:hint="@string/r_ponse_du_joueur_1"
+                android:background="@android:color/white"
+                android:padding="8dp"
+                app:layout_constraintTop_toBottomOf="@id/questionEditText"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintEnd_toEndOf="parent" />
+
+        <!-- Bouton pour valider les réponses du Joueur 1 -->
+        <Button
+                android:id="@+id/validateButtonPart1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/valider_et_passer_au_joueur_2"
+                android:background="@drawable/rounded_button"
+                android:backgroundTint="@color/second_color"
+                android:textColor="@color/white"
+                app:layout_constraintTop_toBottomOf="@id/answerEditText"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintEnd_toEndOf="parent"
+                android:layout_marginTop="16dp" />
+
+    </LinearLayout>
+
+    <!-- Partie 2: Section pour le Joueur 2 -->
+    <LinearLayout
+            android:id="@+id/part2Layout"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:visibility="visible"
+            app:layout_constraintTop_toTopOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            android:layout_marginTop="156dp"
+            app:layout_constraintHorizontal_bias="0.5">
+
+        <TextView
+                android:id="@+id/joueur2TextView"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/joueur_2"
+                android:textStyle="bold"
+                android:textSize="28sp"
+                android:paddingBottom="8dp"
+                android:textColor="@color/second_color"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintEnd_toEndOf="parent" />
+
+        <!-- TextView pour afficher la question du Joueur 1 -->
+        <TextView
+                android:id="@+id/questionTextView"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/question_du_joueur_1"
+                android:textStyle="bold"
+                android:textSize="25sp"
+                android:paddingBottom="8dp"
+                android:textColor="@color/white"
+                app:layout_constraintTop_toBottomOf="@id/joueur2TextView"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintEnd_toEndOf="parent" />
+
+        <TextView
+                android:id="@+id/questionindTextView"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/regle_question"
+                android:textStyle="bold"
+                android:textSize="18sp"
+                android:paddingBottom="8dp"
+                android:textColor="@color/white"
+                app:layout_constraintTop_toBottomOf="@id/questionTextView"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintEnd_toEndOf="parent" />
+
+        <!-- EditText pour la réponse du Joueur 2 -->
+        <EditText
+                android:id="@+id/player2AnswerEditText"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="8dp"
+                android:layout_marginBottom="8dp"
+                android:hint="@string/r_ponse_du_joueur_2"
+                android:background="@android:color/white"
+                android:padding="8dp"
+                app:layout_constraintTop_toBottomOf="@id/questionindTextView"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintEnd_toEndOf="parent" />
+
+        <!-- Bouton pour valider la réponse du Joueur 2 -->
+        <Button
+                android:id="@+id/validateButtonPart2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/valider_la_r_ponse_du_joueur_2"
+                android:background="@drawable/rounded_button"
+                android:backgroundTint="@color/second_color"
+                android:textColor="@color/white"
+                app:layout_constraintTop_toBottomOf="@id/player2AnswerEditText"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintEnd_toEndOf="parent"
+                android:layout_marginTop="16dp" />
+
+    </LinearLayout>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

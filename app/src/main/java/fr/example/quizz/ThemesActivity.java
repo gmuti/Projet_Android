@@ -1,13 +1,17 @@
 package fr.example.quizz;
 
 import android.content.Intent;
+import android.content.SharedPreferences;
+import android.graphics.Typeface;
 import android.media.MediaPlayer;
 import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
 import android.widget.LinearLayout;
+import android.widget.TextView;
 
 import androidx.appcompat.app.AppCompatActivity;
+import androidx.preference.PreferenceManager;
 
 import java.io.IOException;
 import java.util.ArrayList;
@@ -17,7 +21,6 @@ public class ThemesActivity extends AppCompatActivity {
 
     private LinearLayout themesLayout; // Layout pour ajouter dynamiquement les boutons de thème
     private MediaPlayer buttonClickPlayer; // MediaPlayer pour le son du clic de bouton
-    private boolean isMusicPlaying = false; // Indicateur pour suivre l'état de la musique
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -34,6 +37,18 @@ public class ThemesActivity extends AppCompatActivity {
 
         // Création des boutons de thème dynamiquement
         createThemeButtons(themes);
+
+        // Récupération du nom d'utilisateur depuis SharedPreferences
+        SharedPreferences preferences = PreferenceManager.getDefaultSharedPreferences(this);
+        String username = preferences.getString("userName", "DefaultUser");
+
+        // Affichage du nom d'utilisateur dans un TextView par exemple
+        TextView usernameTextView = findViewById(R.id.usernameTextView);
+        usernameTextView.setText("Bienvenue, " + username + " !");
+
+        // Appliquer la police "Permanent Marker" au TextView usernameTextView
+        Typeface typeface = Typeface.createFromAsset(getAssets(), "font/permanent_marker_regular.ttf");
+        usernameTextView.setTypeface(typeface, Typeface.BOLD);
     }
 
     @Override

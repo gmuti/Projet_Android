@@ -19,10 +19,20 @@
     <string name="image_question">image question</string>
     <string name="utilisateur">Utilisateur :</string>
     <string name="Score">Score :</string>
-    <string name="meilleurs_scores">Meilleurs scores :</string>
+    <string name="meilleurs_scores">TABLEAU DES SCORE </string>
     <string name="recommencer">Recommencer</string>
     <string name="accueil">Accueil</string>
-    <string name="choose_a_theme">Choisir un theme</string>
+    <string name="choose_a_theme">Choisi un theme</string>
     <string name="logo_image">logo image</string>
     <string name="multi_jouer">MULTI-JOUER</string>
+    <string name="bienvenue_utilisateur">Bienvenue, Utilisateur !</string>
+    <string name="joueur_1">Joueur 1</string>
+    <string name="joueur_2">joueur 2</string>
+    <string name="valider_la_r_ponse_du_joueur_2">Valider la réponse du Joueur 2</string>
+    <string name="r_ponse_du_joueur_2">Réponse du Joueur 2</string>
+    <string name="question_du_joueur_1">Question du Joueur 1</string>
+    <string name="valider_et_passer_au_joueur_2">Valider et passer au Joueur 2</string>
+    <string name="r_ponse_du_joueur_1">Réponse du Joueur 1</string>
+    <string name="regle_question">Si la reponse saisi est fausse le jeu s\'arrete sinon le jeu continue</string>
+    <string name="regle_entrer_question">Entre la question et la reponse !</string>
 </resources>

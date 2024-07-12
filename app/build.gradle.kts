@@ -31,6 +31,8 @@ android {
 dependencies {
 
     implementation("com.google.code.gson:gson:2.8.8")
+    implementation ("com.mikepenz:iconics-core:5.3.4")
+    implementation ("com.mikepenz:fontawesome-typeface:5.9.0.0-kotlin@aar")
     implementation("androidx.appcompat:appcompat:1.7.0")
     implementation("com.google.android.material:material:1.12.0")
     implementation("androidx.constraintlayout:constraintlayout:2.1.4")

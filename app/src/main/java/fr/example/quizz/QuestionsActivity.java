@@ -2,6 +2,7 @@ package fr.example.quizz;
 
 import android.content.Intent;
 import android.content.SharedPreferences;
+import android.graphics.Typeface;
 import android.graphics.drawable.Drawable;
 import android.media.MediaPlayer;
 import android.os.Bundle;
@@ -72,6 +73,16 @@ public class QuestionsActivity extends AppCompatActivity {
         // Chargement des préférences utilisateur
         sharedPreferences = PreferenceManager.getDefaultSharedPreferences(this);
         username = sharedPreferences.getString("userName", "DefaultUser");
+
+        // Appliquer la police "Rubik"
+        Typeface typeface = Typeface.createFromAsset(getAssets(), "font/rubik_variablefont_wght.ttf");
+        questionTextView.setTypeface(typeface, Typeface.BOLD);
+        option1RadioButton.setTypeface(typeface);
+        option2RadioButton.setTypeface(typeface);
+        option3RadioButton.setTypeface(typeface);
+        option4RadioButton.setTypeface(typeface);
+        nextButton.setTypeface(typeface, Typeface.BOLD);
+        toggleSoundButton.setTypeface(typeface);
 
         // Récupération du nom du fichier JSON depuis l'intent
         jsonFileName = getIntent().getStringExtra("json_file_name");

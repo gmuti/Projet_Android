@@ -2,8 +2,11 @@ package fr.example.quizz;
 
 import android.content.Intent;
 import android.content.SharedPreferences;
+import android.graphics.Typeface;
 import android.os.Bundle;
 import android.widget.Button;
+import android.widget.TableLayout;
+import android.widget.TableRow;
 import android.widget.TextView;
 
 import androidx.appcompat.app.AppCompatActivity;
@@ -26,6 +29,7 @@ public class ResultActivity extends AppCompatActivity {
 
         // Initialisation des SharedPreferences
         sharedPreferences = PreferenceManager.getDefaultSharedPreferences(this);
+        Typeface typeface = Typeface.createFromAsset(getAssets(), "font/permanent_marker_regular.ttf");
 
         // Récupérer les données transmises par l'intent
         String username = getIntent().getStringExtra("username");
@@ -33,11 +37,16 @@ public class ResultActivity extends AppCompatActivity {
 
         // Sauvegarder le score actuel de l'utilisateur
         saveScore(username, score);
+        TextView usernameTextView = findViewById(R.id.usernameTextView);
+        usernameTextView.setTypeface(typeface);
+
+        TextView scoreTextView = findViewById(R.id.scoreTextView);
+        scoreTextView.setTypeface(typeface);
 
         // Afficher le nom de l'utilisateur et son score
-        TextView usernameTextView = findViewById(R.id.usernameTextView);
-        TextView scoreTextView = findViewById(R.id.scoreTextView);
-        usernameTextView.setText("Utilisateur : " + username);
+        usernameTextView = findViewById(R.id.usernameTextView);
+        scoreTextView = findViewById(R.id.scoreTextView);
+        usernameTextView.setText(username);
         scoreTextView.setText("Score : " + score);
 
         // Récupérer et afficher les 10 meilleurs scores
@@ -95,15 +104,26 @@ public class ResultActivity extends AppCompatActivity {
     }
 
     private void displayTopScores(List<ScoreEntry> topScores) {
-        TextView topScoresTextView = findViewById(R.id.topScoresTextView);
-        StringBuilder topScoresText = new StringBuilder();
+        TableLayout tableLayout = findViewById(R.id.topScoresTableLayout);
 
         for (int i = 0; i < topScores.size(); i++) {
             ScoreEntry entry = topScores.get(i);
-            topScoresText.append(i + 1).append(". ").append(entry.getUser()).append(": ").append(entry.getScore()).append("\n");
-        }
 
-        topScoresTextView.setText(topScoresText.toString());
+            TableRow tableRow = new TableRow(this);
+            TextView rankTextView = new TextView(this);
+            TextView userTextView = new TextView(this);
+            TextView scoreTextView = new TextView(this);
+
+            rankTextView.setText(String.valueOf(i + 1));
+            userTextView.setText(entry.getUser());
+            scoreTextView.setText(String.valueOf(entry.getScore()));
+
+            tableRow.addView(rankTextView);
+            tableRow.addView(userTextView);
+            tableRow.addView(scoreTextView);
+
+            tableLayout.addView(tableRow);
+        }
     }
 
     private static class ScoreEntry {

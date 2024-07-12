@@ -2,10 +2,12 @@ package fr.example.quizz;
 
 import android.content.Intent;
 import android.content.SharedPreferences;
+import android.graphics.Typeface;
 import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
 import android.widget.EditText;
+import android.widget.TextView;
 import android.widget.Toast;
 
 import androidx.appcompat.app.AppCompatActivity;
@@ -15,6 +17,7 @@ public class MainActivity extends AppCompatActivity {
 
     private EditText nameEditText;
     private Button startButton;
+    private Button multiJouerButton; // Ajout du bouton multi-joueur
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -24,8 +27,17 @@ public class MainActivity extends AppCompatActivity {
         // Initialisation des vues
         nameEditText = findViewById(R.id.nameEditText);
         startButton = findViewById(R.id.startButton);
+        TextView welcomeText = findViewById(R.id.welcomeText);
+        multiJouerButton = findViewById(R.id.multiJouerButton); // Initialisation du bouton multi-joueur
 
-        // Configuration de l'écouteur du bouton
+        // Appliquer la police "Permanent Marker"
+        Typeface typeface = Typeface.createFromAsset(getAssets(), "font/permanent_marker_regular.ttf");
+        nameEditText.setTypeface(typeface);
+        startButton.setTypeface(typeface);
+        welcomeText.setTypeface(typeface);
+        multiJouerButton.setTypeface(typeface);
+
+        // Configuration de l'écouteur du bouton Commencer
         startButton.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
@@ -39,8 +51,17 @@ public class MainActivity extends AppCompatActivity {
                     Intent intent = new Intent(MainActivity.this, ThemesActivity.class);
                     startActivity(intent);
                 } else {
-                    Toast.makeText(MainActivity.this, "Please enter your name", Toast.LENGTH_SHORT).show();
+                    Toast.makeText(MainActivity.this, "Entrer votre nom", Toast.LENGTH_SHORT).show();
                 }
+            }
+        });
+
+        // Configuration de l'écouteur du bouton Multi-joueur
+        multiJouerButton.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                Intent intent = new Intent(MainActivity.this, MultiplayerActivity.class);
+                startActivity(intent);
             }
         });
     }

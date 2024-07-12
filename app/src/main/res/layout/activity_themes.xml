@@ -1,22 +1,31 @@
 <androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
                                                    android:layout_width="match_parent"
                                                    android:layout_height="match_parent"
+                                                   android:background="@color/first_color"
                                                    xmlns:app="http://schemas.android.com/apk/res-auto"
                                                    xmlns:tools="http://schemas.android.com/tools"
                                                    android:padding="16dp">
 
+    <TextView
+            android:id="@+id/usernameTextView"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/bienvenue_utilisateur"
+            android:textSize="28sp"
+            android:textColor="@color/white" tools:ignore="MissingConstraints"
+            app:layout_constraintTop_toTopOf="parent" app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"/>
     <TextView
             android:id="@+id/themeTextView"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="@string/choose_a_theme"
             android:textSize="28sp"
-            android:textColor="#000"
+            android:textColor="@color/second_color"
             app:layout_constraintTop_toTopOf="parent"
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintEnd_toEndOf="parent"
-            android:layout_marginTop="16dp" />
-
+            android:layout_marginTop="68dp" app:layout_constraintHorizontal_bias="0.497"/>
     <ImageView
             android:id="@+id/logoImageView"
             android:layout_width="382dp"
@@ -27,8 +36,8 @@
             app:layout_constraintTop_toBottomOf="@+id/themeTextView" android:contentDescription="@string/logo_image"/>
     <LinearLayout
             android:id="@+id/themesLayout"
-            android:layout_width="376dp"
-            android:layout_height="525dp"
+            android:layout_width="380dp"
+            android:layout_height="469dp"
             android:orientation="vertical"
             app:layout_constraintTop_toBottomOf="@id/themeTextView"
             app:layout_constraintStart_toStartOf="parent"
