@@ -1,4 +1,4 @@
-# QUIZZ APP - Projet Annuel
+# 😊 QUIZZ APP - Projet Annuel🚀
 
 Ce projet, réalisé par Gedeon & Jonas, est une application de quiz conçue pour divertir et défier les joueurs. Voici ce que notre application propose :
 
@@ -25,7 +25,7 @@ Ce projet, réalisé par Gedeon & Jonas, est une application de quiz conçue pou
 
 ---
 
-### Fonctionnalités optionnelles ( BONUS )
+### Fonctionnalités optionnelles ( BONUS ) 🌟
 
 1. **Mode multijoueur** :
    - Permet à deux joueurs de jouer ensemble, où l'un pose les questions et l'autre répond.
@@ -45,7 +45,7 @@ Ce projet, réalisé par Gedeon & Jonas, est une application de quiz conçue pou
 
 ---
 
-### Comment démarrer
+### Comment démarrer ℹ️
 
 1. **Installation** :
    - Clonez ce repository sur votre machine locale.
