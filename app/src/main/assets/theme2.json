@@ -1,0 +1,32 @@
+[
+  {
+    "question": "What is the capital of France?",
+    "options": ["Paris", "London", "Berlin", "Berlin"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Who wrote 'Hamlet'?",
+    "options": ["Charles Dickens", "William Shakespeare", "Mark Twain", "Berlin"],
+    "correctAnswer": 1
+  },
+  {
+    "question": "What is the largest planet in our solar system?",
+    "options": ["Earth", "Jupiter", "Saturn", "Berlin"],
+    "correctAnswer": 1
+  },
+  {
+    "question": "What is the chemical symbol for water?",
+    "options": ["H2O", "CO2", "NaCl", "Berlin"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Who painted the Mona Lisa?",
+    "options": ["Vincent van Gogh", "Pablo Picasso", "Leonardo da Vinci", "Berlin"],
+    "correctAnswer": 2
+  },
+  {
+    "question": "What is the speed of light?",
+    "options": ["300,000 km/s", "150,000 km/s", "450,000 km/s", "Berlin"],
+    "correctAnswer": 0
+  }
+]

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:state_pressed="true">
+        <shape>
+            <!--solid android:color="#FF9800"/> <!- Couleur lorsque le bouton est pressé -->
+            <corners android:radius="12dp"/> <!-- Rayon des coins arrondis -->
+            <padding
+                    android:left="16dp"
+                    android:top="16dp"
+                    android:right="16dp"
+                    android:bottom="16dp"/>
+        </shape>
+    </item>
+    <item>
+        <shape>
+            <!--solid android:color="#F67009"/> <!- Couleur par défaut -->
+            <corners android:radius="8dp"/> <!-- Rayon des coins arrondis -->
+            <padding
+                    android:left="16dp"
+                    android:top="16dp"
+                    android:right="16dp"
+                    android:bottom="16dp"/>
+        </shape>
+    </item>
+</selector>

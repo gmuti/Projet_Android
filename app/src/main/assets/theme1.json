@@ -1,0 +1,32 @@
+[
+  {
+    "question": "What is the capital of France?",
+    "options": ["Paris", "London", "Berlin", "Berlin"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Who wrote 'Hamlet'?",
+    "options": ["Charles Dickens", "William Shakespeare", "Mark Twain", "Berlin"],
+    "correctAnswer": 1
+  },
+  {
+    "question": "What is the capital of France?",
+    "options": ["Paris", "London", "Berlin", "Berlin"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Who wrote 'Hamlet'?",
+    "options": ["Charles Dickens", "William Shakespeare", "Mark Twain", "Berlin"],
+    "correctAnswer": 1
+  },
+  {
+    "question": "What is the capital of France?",
+    "options": ["Paris", "London", "Berlin", "Berlin"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Who wrote 'Hamlet'?",
+    "options": ["Charles Dickens", "William Shakespeare", "Mark Twain", "Berlin"],
+    "correctAnswer": 1
+  }
+]

@@ -1,0 +1,27 @@
+<!-- res/drawable/theme_button_background.xml -->
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:state_pressed="true">
+        <shape>
+            <solid android:color="#005BFD"/> <!-- Couleur lorsque le bouton est pressé -->
+            <corners android:radius="8dp"/>
+            <padding
+                    android:left="16dp"
+                    android:top="16dp"
+                    android:right="16dp"
+                    android:bottom="16dp"/>
+        </shape>
+    </item>
+    <item>
+        <shape>
+            <solid android:color="#A5C5E4"/> <!-- Couleur par défaut -->
+            <corners android:radius="8dp"/>
+            <padding
+                    android:left="16dp"
+                    android:top="16dp"
+                    android:right="16dp"
+                    android:bottom="16dp"/>
+            <margin
+                    android:bottom="8dp"/>
+        </shape>
+    </item>
+</selector>

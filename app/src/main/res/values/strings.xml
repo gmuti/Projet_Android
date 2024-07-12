@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">QUIZZ</string>
+    <string name="welcome">"Bienvenu dans mon Quiz!"</string>
+    <string name="enter_name">"Entrer votre nom"</string>
+    <string name="start_game">"Commencer le jeu"</string>
+    <string name="question">"Votre question ici"</string>
+    <string name="start">"Début du jeu"</string>
+    <string name="bjr">"Bonjour "</string>
+    <string name="todo">TODO</string>
+    <string name="start_quiz">JOUER</string>
+    <string name="next">Suivant</string>
+    <string name="option_1">Option 1</string>
+    <string name="option_4">Option 4</string>
+    <string name="option_3">Option 3</string>
+    <string name="option_2">Option 2</string>
+    <string name="Question">Question</string>
+    <string name="score">SCORE !!</string>
+    <string name="couper_son">🔇</string>
+    <string name="image_question">image question</string>
+    <string name="utilisateur">Utilisateur :</string>
+    <string name="Score">Score :</string>
+    <string name="meilleurs_scores">Meilleurs scores :</string>
+    <string name="recommencer">Recommencer</string>
+    <string name="accueil">Accueil</string>
+    <string name="choose_a_theme">Choisir un theme</string>
+    <string name="logo_image">logo image</string>
+    <string name="multi_jouer">MULTI-JOUER</string>
+</resources>

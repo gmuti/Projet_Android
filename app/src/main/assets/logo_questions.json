@@ -1,0 +1,27 @@
+[
+  {
+    "question": "logo1.png",
+    "options": ["Nike", "Adidas", "Puma", "Reebok"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "logo2.png",
+    "options": ["Apple", "Microsoft", "IBM", "Intel"],
+    "correctAnswer": 1
+  },
+  {
+    "question": "logo3.png",
+    "options": ["Facebook", "Twitter", "Instagram", "Snapchat"],
+    "correctAnswer": 2
+  },
+  {
+    "question": "logo4.png",
+    "options": ["Google", "Yahoo", "Bing", "Baidu"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "logo5.png",
+    "options": ["Amazon", "eBay", "Alibaba", "Etsy"],
+    "correctAnswer": 0
+  }
+]
